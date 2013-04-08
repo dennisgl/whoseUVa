@@ -5,7 +5,7 @@ storing my own solution of [UVa OJ Problem sets](http://uva.onlinejudge.org/ "UV
 
 Correctness
 -----------
-Most of the solution are ACCEPT by UVa OJ.
+Most of the solution are ACCEPTed by UVa OJ.
 Which means it should be corect, at least for the competition situation.
 
 However, if you found it is fun to correct my solutions to meet 100% correctness,
